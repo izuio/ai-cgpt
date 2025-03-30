@@ -1,0 +1,14 @@
+{
+    "name": "izuio/open-location-code",
+    "description": "PHP port of Google's Open Location Code",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "OpenLocationCode\\": "./"
+      }
+    },
+    "license": "Apache-2.0",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
